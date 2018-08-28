@@ -1,0 +1,1 @@
+Clone and use for your new Node/Typescript project!
